@@ -1,3 +1,7 @@
+# NOTE
+This fork exists to offer builds with OpenJFX supplied to allow it to run on OpenJDK.
+If you are using the official JRE, you should not need this.
+
 # MCA Selector
 [![total downloads](https://img.shields.io/github/downloads/Querz/mcaselector/total.svg)](https://github.com/Querz/mcaselector/releases) [![paypal](https://img.shields.io/badge/donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3PV2GDWZL8HCA)
 
